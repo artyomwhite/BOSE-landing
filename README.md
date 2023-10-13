@@ -3,7 +3,7 @@
 - [DEMO LINK](https://artyomwhite.github.io/BOSE-landing/)
 
 ## General info
-A landing page for Bose. It is a training project. The user can open and close burger menu, use telephone and email links, send an information in a special form. The form has adittional validation. Page consist of animation and transition on product cards and buttons. Anchore targets were implemented for navigation within the same page. The project is SEO friendly.
+The Bose landing page is a training project featuring animations, transitions on product cards and buttons, and anchor targets for in-page navigation. Users can open and close a menu, utilize telephone and email links, and submit information via a dedicated form. The form includes additional validation. The page is responsive and adapts seamlessly to three different device types: desktop, tablet, and mobile. It ensures a user-friendly experience on all platforms.
 
 ## Technologies
 Project was created with:
